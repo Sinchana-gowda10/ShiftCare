@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">ShiftCare</string>
+
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Main App -->
+    <string name="hello_dr">Hello, %s</string>
+    <string name="todays_shift">TODAY\'S SHIFT</string>
+    <string name="next_shift">NEXT SHIFT</string>
+    <string name="shift_swap_requests">SHIFT SWAP REQUESTS</string>
+    <string name="request_swap">Request Swap</string>
+    <string name="view_schedule">View Schedule</string>
+    <string name="notify_admin">Notify Admin</string>
+    <string name="home">Home</string>
+    <string name="shifts">Shifts</string>
+    <string name="swap">Swap</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="analytics">Analytics</string>
+    <string name="total_hours">Total Hours</string>
+    <string name="successful_swaps">Successful Swaps</string>
+    <string name="overtime_hours">~%d hrs overtime</string>
+    <string name="attendance_history">Attendance History</string>
+    <string name="swap_statistics">Swap Statistics</string>
+    <string name="swaps_requested">Swaps Requested</string>
+    <string name="swaps_accepted">Swaps Accepted</string>
+    <string name="approval_rate">Approval Rate: %.0f%%</string>
+    <string name="present">Present</string>
+    <string name="overtime">Overtime</string>
+    <string name="absent_swapped">Absent - Swapped</string>
+    <string name="create_new_swap">Create New Swap</string>
+    <string name="pending_requests">Pending Requests</string>
+    <string name="open_swap_offers">Open Swap Offers</string>
+    <string name="accept">Accept</string>
+    <string name="urgent_staffing_need">URGENT STAFFING NEED!</string>
+    <string name="tap_to_volunteer">Tap to volunteer</string>
+    <string name="rest_alert">Rest Alert: You\'ve accepted more than 2 swaps this month. Ensure you take adequate rest.</string>
+
+    <!-- New strings for swap functionality -->
+    <string name="shift_swap">Shift Swap</string>
+    <string name="to_dr_patel">To: Dr. Patel, Nov 5 (12-5 PM)</string>
+    <string name="dr_priya_patel">Dr. Priya Patel, Oct 28 (8 AM - 12 PM)</string>
+    <string name="dr_rajesh_kumar">Dr. Rajesh Kumar, Nov 2 (2 PM - 10 PM)</string>
+    <string name="dr_anjali_singh">Dr. Anjali Singh, Nov 5 (9 AM - 5 PM)</string>
+    <string name="cardiology_dept">Cardiology Dept</string>
+    <string name="icu">ICU</string>
+    <string name="emergency_ward">Emergency Ward</string>
+    <string name="accepted_swaps">Accepted Swaps</string>
+    <string name="no_swap_requests">No new swap requests</string>
+    <string name="swap_offer_not_found">Swap offer not found</string>
+    <string name="swap_accepted_message">Swap accepted with %s! Shift updated in shifts management.</string>
+    <string name="swap_request_sent">Swap request sent successfully!</string>
+    <string name="create_swap_request">Create Swap Request</string>
+    <string name="send_request">Send Request</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_shift_to_swap">Select Shift to Swap</string>
+    <string name="select_available_shifts">Select Available Shifts to Offer</string>
+    <string name="swap_dialog_message">Select a shift to swap and choose available shifts to offer in return.</string>
+    <string name="your_pending_swap_requests">Your Pending Swap Requests</string>
+    <string name="profile_information">Profile Information</string>
+    <string name="department">Department:</string>
+    <string name="phone">Phone:</string>
+
+</resources>
